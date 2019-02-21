@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/now_playing_menu"
+        android:title="@string/now_playing"
+        android:icon="@drawable/ic_today"/>
+
+    <item
+        android:id="@+id/upcoming_menu"
+        android:title="@string/up_coming"
+        android:icon="@drawable/ic_update"/>
+
+    <item
+        android:id="@+id/favorite_menu"
+        android:title="@string/favorite"
+        android:icon="@drawable/ic_favorite_black"/>
+
+    <item
+        android:id="@+id/search_menu"
+        android:title="@string/search_movie"
+        android:icon="@drawable/ic_search"/>
+
+</menu>
