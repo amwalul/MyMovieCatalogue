@@ -12,7 +12,7 @@ width="200">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/amwalul/MyMovieCatalogue/master/screenshots/WhatsApp Image 2019-02-21 at 22.57.03.jpeg"
 width="200">&nbsp;&nbsp;&nbsp;
 
-### Fitur Aplikasi
+### Application Features
 - [x] Reminder Notifications to return to the application every day.
 - [x] Notifications for new films.
 - [x] Language settings according to device language.
