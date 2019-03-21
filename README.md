@@ -1,4 +1,4 @@
-## Movie Catalogue
+## My Movie Catalogue
 
 Project challenges from coding in class to Android Developer Expert (MADE) https://www.dicoding.com/academies/14/ .
 
